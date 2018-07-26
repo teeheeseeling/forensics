@@ -1,1 +1,4 @@
 # forensics
+
+Hints:
+use tchunt
